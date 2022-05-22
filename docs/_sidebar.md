@@ -3,6 +3,7 @@
 - [Home](README.md)
   
 - Introduction
+  - [Defining Variables](intro/definingvariables.md)
   - [Calling Methods](intro/callingmethods.md)
   
 - Libraries
