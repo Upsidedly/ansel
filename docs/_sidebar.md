@@ -4,6 +4,7 @@
   
 - Introduction
   - [Defining Variables](intro/definingvariables.md)
+  - [Comments](intro/commenting.md)
   - [Calling Methods](intro/callingmethods.md)
   
 - Libraries
